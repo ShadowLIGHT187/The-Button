@@ -22,7 +22,7 @@ A script for the roblox game The Button
 
 
 And more, but im not gonna list every single feature.
-Also note the some features are not working, but i will fix them.
+ (Also note the some features are not working, but i will fix them)
 
 # ↓Get the loadstring here↓
 
