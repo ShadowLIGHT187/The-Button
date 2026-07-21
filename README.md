@@ -23,6 +23,10 @@ A script for the roblox game The Button
 
 And more, cuz im not gonna list every single feature.
 
+# ↓Get the loadstring here↓
+
+https://guns.lol/darkbeach
+
 
 # Keyless
 
